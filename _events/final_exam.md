@@ -1,0 +1,10 @@
+---
+type: exam
+date: 2019-06-14T15:30:0+3:30
+description: 'Midterm 2'
+solution: /static_files/quizes/Final-Solution.pdf
+hide_from_announcments: false
+---
+**Topics:**
+<br> - Everything
+<br> - Focus: Advanced Algorithms
